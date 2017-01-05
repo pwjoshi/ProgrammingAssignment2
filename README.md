@@ -17,7 +17,7 @@ The following activities were accomplished to complete this assignment:
     > `git commit -m "Renamed the original README.md from rdpeng/ProgrammingAssignment2"`  
     > `git push`  
     > ` `  
-    > `git add README.mdi`  
+    > `git add README.md`  
     > `git commit -m "Assignment summary - Caching the Inverse of a Matrix"`  
     > `git push`  
     > ` `  
