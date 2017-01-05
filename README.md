@@ -15,17 +15,17 @@ The following activities were accomplished to complete this assignment:
     > `git add cachematrix.R README.md README_ProgrammingAssignment2_Original.md`
 
 4.  **Commit** your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
-    > `git add README_ProgrammingAssignment2_Original.md`
-    > `git commit -m "Renamed the original README.md from rdpeng/ProgrammingAssignment2"`
-    > `git push`
-    > ` `
-    > `git add README.mdi`
-    > `git commit -m "Assignment summary - Caching the Inverse of a Matrix"`
-    > `git push`
-    > ` `
-    > `git add cachematrix.R`
-    > `git commit -m "Updated pair of functions that cache the inverse of a matrix"`
-    > `git push`
+    > `git add README_ProgrammingAssignment2_Original.md`  
+    > `git commit -m "Renamed the original README.md from rdpeng/ProgrammingAssignment2"`  
+    > `git push`  
+    > ` `  
+    > `git add README.mdi`  
+    > `git commit -m "Assignment summary - Caching the Inverse of a Matrix"`  
+    > `git push`  
+    > ` `  
+    > `git add cachematrix.R`  
+    > `git commit -m "Updated pair of functions that cache the inverse of a matrix"`  
+    > `git push`  
 
 5.  **Submit** to Coursera the URL to your GitHub repository that contains the completed R code for the assignment.
     > [https://github.com/pwjoshi/ProgrammingAssignment2](https://github.com/pwjoshi/ProgrammingAssignment2) 
