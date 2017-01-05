@@ -4,17 +4,15 @@
 
 The following activities were accomplished to complete this assignment: 
 
-1.  **Fork** the GitHub repository containing the stub R files at
+1. **Fork** the GitHub repository containing the stub R files at
     [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2) to create a copy under your own account.
     > Forked the GitHub repository from the address mentioned above through Github web-based interface
     
-2.  **Clone** your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
+2. **Clone** your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
     > `git clone https://github.com/pwjoshi/ProgrammingAssignment2.git`
     
-3.  **Edit** the R file contained in the git repository and place your solution in that file (please do not rename the file).
-    > `git add cachematrix.R README.md README_ProgrammingAssignment2_Original.md`
-
-4.  **Commit** your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
+3. **Edit** the R file contained in the git repository and place your solution in that file (please do not rename the file).  
+   **Commit** your completed R file into YOUR git repository and push your git branch to the GitHub repository under your account.
     > `git add README_ProgrammingAssignment2_Original.md`  
     > `git commit -m "Renamed the original README.md from rdpeng/ProgrammingAssignment2"`  
     > `git push`  
@@ -27,7 +25,7 @@ The following activities were accomplished to complete this assignment:
     > `git commit -m "Updated pair of functions that cache the inverse of a matrix"`  
     > `git push`  
 
-5.  **Submit** to Coursera the URL to your GitHub repository that contains the completed R code for the assignment.
+4. **Submit** to Coursera the URL to your GitHub repository that contains the completed R code for the assignment.
     > [https://github.com/pwjoshi/ProgrammingAssignment2](https://github.com/pwjoshi/ProgrammingAssignment2) 
     
     
